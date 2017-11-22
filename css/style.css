@@ -1,4 +1,4 @@
-body{
+body {
 	margin: 0;
 	font-family: 'Merriweather', serif;
 }
@@ -9,13 +9,13 @@ body{
 	padding: 10px;
 }
 
-section > div {
+div {
 	background-color: #9ecae1;
 	margin: 30px;
 	padding: 30px;
 	border-radius: 25px;
 }
 
-header > img {
+img {
 	border-radius: 50%;
 }
