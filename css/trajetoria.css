@@ -11,8 +11,13 @@
     border-bottom: 2px solid #C0C0C0;
 }
 
+.company-org h2 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
 .company-img {
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 180px;
     width: 320px;
