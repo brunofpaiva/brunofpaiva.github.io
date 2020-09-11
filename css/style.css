@@ -85,6 +85,11 @@ body {
     width: 100%;
 }
 
+.construction-center {
+    text-align: center;
+    margin-top:30%;
+}
+
 .itens:before {
     content: "★";
 }
